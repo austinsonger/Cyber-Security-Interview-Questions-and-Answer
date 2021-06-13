@@ -49,7 +49,7 @@ Access control based on user roles (i.e., a collection of access authorizations 
 
 </b></details>
 
-## SWeb
+## Web
 
 <details>
 <summary>What is Nonce?</summary><br><b>
