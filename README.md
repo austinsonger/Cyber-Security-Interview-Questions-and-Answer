@@ -1,5 +1,13 @@
 # Cyber Security Interview Questions and Answers
 
+<!--
+<details>
+<summary>
+ 
+</summary><br><b>
+
+</b></details>
+-->
 
 ## Security
 
@@ -70,6 +78,305 @@ Access control based on user roles (i.e., a collection of access authorizations 
 <details>
 <summary>What is the role of an SSH key?</summary><br><b>
 </b></details>
+
+
+## Encryption and Authentication
+   
+What is a three-way handshake?
+
+
+How do cookies work?
+
+
+How do sessions work?
+
+
+Explain how OAuth works.
+
+
+What is a public key infrastructure flow and how would I diagram it?
+
+
+Describe the difference between synchronous and asynchronous encryption.
+
+
+Describe SSL handshake.
+
+
+How does HMAC work?
+
+
+Why HMAC is designed in that way?
+
+
+What is the difference between authentication vs authorization name spaces?
+
+
+What’s the difference between Diffie-Hellman and RSA?
+
+
+How does Kerberos work?
+
+
+If you're going to compress and encrypt a file, which do you do first and why?
+
+
+How do I authenticate you and know you sent the message?
+
+
+Should you encrypt all data at rest?
+
+
+What is Perfect Forward Secrecy?
+
+
+
+## Network Level and Logging
+
+What are common ports involving security, what are the risks and mitigations?
+
+
+Which one for DNS?
+
+
+Describe HTTPs and how it is used.
+
+
+What is the difference between HTTPS and SSL?
+
+
+How does threat modeling work?
+
+
+What is a subnet and how is it useful in security?
+
+
+What is subnet mask?
+
+
+Explain what traceroute is.
+
+
+Draw a network, then expect them to raise an issue and have to figure out where it happened.
+
+
+Write out a Cisco ASA firewall configuration on the white board to allow three networks unfiltered access, 12 networks limited access to different resources on different networks, and 8 networks to be blocked altogether.
+
+
+Explain TCP/IP concepts.
+
+
+What is OSI model?
+
+
+How does a router differ from a switch?
+
+
+Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
+
+
+How does a packet travel between two hosts connected in same network?
+
+
+Explain the difference between TCP and UDP. 
+
+
+Which is more secure and why?
+
+
+What is the TCP three way handshake?
+
+
+What is the difference between IPSEC Phase 1 and Phase 2?
+
+
+What are biggest AWS security vulnerabilities?
+
+
+How do web certificates for HTTPS work?
+
+
+What is the purpose of TLS?
+
+
+Is ARP UDP or TCP?
+
+
+Explain what information is added to a packet at each stop of the 7 layer OSI model.
+
+
+Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).
+
+
+Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.
+How does an active directory work?
+
+
+Do you know how Single Sign-On works?
+
+
+What is a firewall?
+
+
+How does it work?
+
+
+How does it work in cloud computing?
+
+
+Difference between IPS and IDS?
+
+
+How do you build a tool to protect the entire Apple infra?
+
+
+How do you harden a system?
+
+
+How to you elevate permissions?
+
+
+Describe the hardening measures you've put on your home network.
+
+
+What is traceroute? Explain it in details.
+
+
+How does HTTPS work?
+
+
+What would do if you discovered an infected host?
+
+
+What is SYN/ACK and how does it work?
+
+
+You got the memory dump of a potentially compromised system, how are you going to approach its analysis?
+
+
+How would you detect a DDOS attack? 
+
+
+How does the kernel know which function to call for the user? 
+
+
+How would you go about reverse-engineering a custom protocol packet?
+
+
+
+## OWASP Top 10, Pentesting and/or Web Applications
+
+Differentiate XSS from CSRF.
+
+
+What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
+
+
+What is the difference between tcp dump and FWmonitor?
+
+
+Do you know what XXE is?
+
+
+Explain man-in-the-middle attacks.
+
+
+What is a Server Side Request Forgery attack?
+
+
+Describe what are egghunters and their use in exploit development. 
+
+
+How is pad lock icon in browser generated?
+
+
+What is Same Origin Policy and CORS?
+
+
+## Compliance
+    
+
+<details>
+<summary>Can you explain SOC 2?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>What are the five trust criteria?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>How is ISO27001 different?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>Can you list examples of controls these frameworks require?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>What is the difference between Governance, Risk and Compliance?  
+ 
+</summary><br><b>
+
+</b></details>
+
+
+
+<details>
+<summary>What does Zero Trust mean?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>What is role-based access control (RBAC) and why is it covered by compliance frameworks?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>What is the NIST framework and why is it influential?
+ 
+</summary><br><b>
+
+</b></details>
+
+
+<details>
+<summary>What is the OSI model?
+ 
+</summary><br><b>
+
+</b></details>
+
+<details>
+<summary>
+ 
+</summary><br><b>
+
+</b></details>
+
+
+
 
 ## Cryptography
 
@@ -331,9 +638,12 @@ CPDoS or Cache Poisoned Denial of Service. It poisons the CDN cache. By manipula
 
 <details>
 <summary>Explain "Advanced persistent threat (APT)"</summary><br><b>
+ 
+ 
 </b></details>
 
 <details>
 <summary>What is a "Backdoor" in information security?</summary><br><b>
+ 
 </b></details>
 
