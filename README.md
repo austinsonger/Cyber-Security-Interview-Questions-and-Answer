@@ -6,7 +6,7 @@
 |   |
 
 
-# Cyber Security Interview Questions and Answers
+# Cyber Security Interview Questions
 
 <!--
 <details>
